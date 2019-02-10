@@ -1,0 +1,5 @@
+PlantId  Status  StartingHeight  EndingHeight  Concentration
+101      0       15.57           17.48         5.99
+153      1       12.49           14.54         4.79
+327      2       14.80           18.43         3.00
+228      1       10.23           11.47         3.60
